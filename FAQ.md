@@ -1,3 +1,5 @@
+# NUWAINU FAQ
+
 ### How did the project idea appear?
 
 NUWA INU was born thanks to the idea of Elon Musk about creating the first city on Mars. The project team decided to create the first financial system for this city and therefore plans to actively build a dialogue with SpaceX representatives and Elon Musk himself.  
